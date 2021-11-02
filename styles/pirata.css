@@ -1,0 +1,27 @@
+@font-face {
+    font-family: pirata;
+    src: url("../fonts/GreatVibes-Regular.ttf");
+}
+body {
+    background-image: url("../images/fondo.png");
+    background-size: 35%;
+
+}
+h2 {margin: 1.5px; }
+h4 {
+    text-align: right;
+    padding-right: 125px;
+    margin: 1px;
+}
+
+#container {
+    background-color: rgba(245, 245, 245, 0.822);
+    width: 40%;
+    
+    margin: auto;
+    padding: 10px;
+    font-family: pirata;
+    font-size: 2em;
+    text-align: center;
+}
+
